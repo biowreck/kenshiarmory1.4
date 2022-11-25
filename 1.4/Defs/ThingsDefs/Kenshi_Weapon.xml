@@ -23,6 +23,8 @@
 			<WorkToMake>20000</WorkToMake>
 			<Mass>5</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-25</equippedAngleOffset>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -88,6 +90,8 @@
 			<WorkToMake>18000</WorkToMake>
 			<Mass>2</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-65</equippedAngleOffset>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -157,6 +161,8 @@
 			<WorkToMake>20000</WorkToMake>
 			<Mass>1.8</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-65</equippedAngleOffset>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -226,6 +232,8 @@
 			<WorkToMake>20000</WorkToMake>
 			<Mass>1.8</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-65</equippedAngleOffset>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -294,6 +302,8 @@
 			<WorkToMake>16000</WorkToMake>
 			<Mass>2.4</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-25</equippedAngleOffset>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -363,6 +373,8 @@
 			<WorkToMake>16000</WorkToMake>
 			<Mass>2.4</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-25</equippedAngleOffset>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -426,6 +438,8 @@
 			<WorkToMake>6000</WorkToMake>
 			<Mass>2.4</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-65</equippedAngleOffset>
 		<recipeMaker>
 			<recipeUsers>
@@ -481,6 +495,8 @@
 			<WorkToMake>9000</WorkToMake>
 			<Mass>2.6</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-65</equippedAngleOffset>
 		<recipeMaker>
 			<recipeUsers>
@@ -536,6 +552,8 @@
 			<WorkToMake>24000</WorkToMake>
 			<Mass>7</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-25</equippedAngleOffset>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -596,6 +614,8 @@
 			<WorkToMake>25000</WorkToMake>
 			<Mass>12</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-25</equippedAngleOffset>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -663,6 +683,8 @@
 			<WorkToMake>20000</WorkToMake>
 			<Mass>2.2</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-65</equippedAngleOffset>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -730,6 +752,8 @@
 			<WorkToMake>20000</WorkToMake>
 			<Mass>2.1</Mass>
 		</statBases>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<equippedAngleOffset>-65</equippedAngleOffset>
 		<stuffCategories>
 			<li>Metallic</li>

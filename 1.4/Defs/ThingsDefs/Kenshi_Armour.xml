@@ -43,6 +43,8 @@
 		<thingCategories>
 			<li>ApparelArmor</li>
 		</thingCategories>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
            <li>Armor</li>
         </tradeTags>
@@ -106,7 +108,9 @@
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
-	    <tradeTags>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
+		<tradeTags>
           <li>Armor</li>
         </tradeTags>
 		<costStuffCount>40</costStuffCount>
@@ -178,6 +182,8 @@
 		<thingCategories>
 			<li>ApparelArmor</li>
 		</thingCategories>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
            <li>Armor</li>
         </tradeTags>
@@ -250,7 +256,9 @@
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
-	    <tradeTags>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
+		<tradeTags>
           <li>Armor</li>
         </tradeTags>
 		<costStuffCount>60</costStuffCount>
@@ -322,6 +330,8 @@
 		<thingCategories>
 			<li>ApparelArmor</li>
 		</thingCategories>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
            <li>Armor</li>
         </tradeTags>
@@ -394,7 +404,9 @@
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
-	    <tradeTags>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
+		<tradeTags>
           <li>Armor</li>
         </tradeTags>
 		<costStuffCount>60</costStuffCount>
@@ -465,6 +477,8 @@
 		<thingCategories>
 			<li>ApparelArmor</li>
 		</thingCategories>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
            <li>Armor</li>
         </tradeTags>
@@ -535,7 +549,9 @@
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
-	    <tradeTags>
+		<generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
+		<tradeTags>
           <li>Armor</li>
         </tradeTags>
 		<costStuffCount>70</costStuffCount>

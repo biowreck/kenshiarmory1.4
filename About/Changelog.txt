@@ -1,0 +1,4 @@
+1.4.1 - Armors can now be traded alongside weapons
+      - Weapons and armors should now be harder to come across
+
+1.4.0 - Updated to 1.4

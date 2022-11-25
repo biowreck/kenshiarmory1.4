@@ -32,7 +32,9 @@
 			<Insulation_Heat>9</Insulation_Heat>
 			<EquipDelay>1.6</EquipDelay>
 		</statBases>
-        <tradeTags>
+        <generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
+		<tradeTags>
            <li>Armor</li>
         </tradeTags>
 		<costList>
@@ -99,9 +101,11 @@
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
-        <tradeTags>
+        <generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
+		<tradeTags>
            <li>Armor</li>
-        </tradeTags>
+	    </tradeTags>
 		<costStuffCount>40</costStuffCount>
 		<apparel>
 			<bodyPartGroups>
@@ -162,7 +166,9 @@
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
-        <tradeTags>
+        <generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
+		<tradeTags>
            <li>Armor</li>
         </tradeTags>
 		<costStuffCount>40</costStuffCount>
@@ -225,7 +231,9 @@
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
-        <tradeTags>
+        <generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
+		<tradeTags>
            <li>Armor</li>
         </tradeTags>
 		<costStuffCount>60</costStuffCount>
@@ -266,7 +274,9 @@
 			<graphicClass>Graphic_Single</graphicClass>
 			<drawSize>(0.9, 0.9)</drawSize>
 		</graphicData>
-        <tradeTags>
+        <generateCommonality>0.1</generateCommonality>
+        <generateAllowChance>0.1</generateAllowChance>
+		<tradeTags>
            <li>Armor</li>
         </tradeTags>
 		<costStuffCount>25</costStuffCount>
