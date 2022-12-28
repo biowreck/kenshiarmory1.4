@@ -44,10 +44,10 @@
 			<li>ApparelArmor</li>
 		</thingCategories>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<apparel>
 			<bodyPartGroups>
 				<li>Torso</li>
@@ -107,10 +107,10 @@
 			<EquipDelay>1.5</EquipDelay>
 		</statBases>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<costList>
 			<Steel>40</Steel>
 			<Cloth>10</Cloth>
@@ -184,10 +184,10 @@
 			<li>ApparelArmor</li>
 		</thingCategories>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<apparel>
 			<bodyPartGroups>
 				<li>Torso</li>
@@ -249,10 +249,10 @@
 			<Cloth>10</Cloth>
 		</costList>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<statBases>
 			<WorkToMake>6000</WorkToMake>
 			<MaxHitPoints>150</MaxHitPoints>
@@ -331,11 +331,11 @@
 		<thingCategories>
 			<li>ApparelArmor</li>
 		</thingCategories>
-        <generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateCommonality>0.1</generateCommonality>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<apparel>
 			<bodyPartGroups>
 				<li>Torso</li>
@@ -402,11 +402,11 @@
 			<Insulation_Heat>4</Insulation_Heat>
 			<EquipDelay>1.5</EquipDelay>
 		</statBases>
-        <generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateCommonality>0.1</generateCommonality>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<costList>
 			<Steel>60</Steel>
 			<Cloth>10</Cloth>
@@ -470,11 +470,11 @@
 			<Insulation_Heat>8</Insulation_Heat>
 			<EquipDelay>1.6</EquipDelay>
 		</statBases>
-        <generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateCommonality>0.1</generateCommonality>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<costList>
 			<Steel>80</Steel>
 			<Cloth>10</Cloth>
@@ -547,11 +547,11 @@
 		<thingCategories>
 			<li>ApparelArmor</li>
 		</thingCategories>
-        <generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateCommonality>0.1</generateCommonality>
+			<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<apparel>
 			<bodyPartGroups>
 				<li>Torso</li>
@@ -627,11 +627,11 @@
 		<thingCategories>
 			<li>ApparelArmor</li>
 		</thingCategories>
-        <generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateCommonality>0.1</generateCommonality>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<apparel>
 			<bodyPartGroups>
 				<li>Torso</li>
@@ -696,11 +696,11 @@
 			<Insulation_Heat>4</Insulation_Heat>
 			<EquipDelay>1.6</EquipDelay>
 		</statBases>
-        <generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateCommonality>0.1</generateCommonality>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<costList>
 			<Steel>70</Steel>
 			<Cloth>10</Cloth>
@@ -773,10 +773,10 @@
 		<thingCategories>
 			<li>ApparelArmor</li>
 		</thingCategories>
-        <generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateCommonality>0.1</generateCommonality>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
+			<li>Armor</li>
         </tradeTags>
 		<apparel>
 			<bodyPartGroups>
@@ -839,11 +839,11 @@
 			<Insulation_Heat>3</Insulation_Heat>
 			<EquipDelay>1.5</EquipDelay>
 		</statBases>
-        <generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateCommonality>0.1</generateCommonality>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<costList>
 			<Steel>40</Steel>
 			<Cloth>10</Cloth>

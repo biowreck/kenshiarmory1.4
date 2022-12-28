@@ -44,10 +44,10 @@
 			<li>ApparelArmor</li>
 		</thingCategories>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<apparel>
 			<bodyPartGroups>
 				<li>Torso</li>
@@ -109,10 +109,10 @@
 			<li>Metallic</li>
 		</stuffCategories>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-          <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<costStuffCount>40</costStuffCount>
 		<apparel>
 			<bodyPartGroups>
@@ -183,10 +183,10 @@
 			<li>ApparelArmor</li>
 		</thingCategories>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<apparel>
 			<bodyPartGroups>
 				<li>Torso</li>
@@ -257,10 +257,10 @@
 			<li>Metallic</li>
 		</stuffCategories>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-          <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<costStuffCount>60</costStuffCount>
 		<apparel>
 			<bodyPartGroups>
@@ -331,10 +331,10 @@
 			<li>ApparelArmor</li>
 		</thingCategories>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<apparel>
 			<bodyPartGroups>
 				<li>Torso</li>
@@ -405,10 +405,10 @@
 			<li>Metallic</li>
 		</stuffCategories>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-          <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<costStuffCount>60</costStuffCount>
 		<apparel>
 			<bodyPartGroups>
@@ -478,10 +478,10 @@
 			<li>ApparelArmor</li>
 		</thingCategories>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-           <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<apparel>
 			<bodyPartGroups>
 				<li>Torso</li>
@@ -550,10 +550,10 @@
 			<li>Metallic</li>
 		</stuffCategories>
 		<generateCommonality>0.1</generateCommonality>
-        <generateAllowChance>0.1</generateAllowChance>
+		<generateAllowChance>0.1</generateAllowChance>
 		<tradeTags>
-          <li>Armor</li>
-        </tradeTags>
+			<li>Armor</li>
+		</tradeTags>
 		<costStuffCount>70</costStuffCount>
 		<apparel>
 			<bodyPartGroups>
